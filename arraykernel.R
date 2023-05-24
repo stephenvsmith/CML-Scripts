@@ -1,7 +1,3 @@
-##########################################################################
-# This file provides the kernel for arrayscript{test|hoffman}.R
-##########################################################################
-
 ### Simulation Setup
 # Load the file with functions for generating data
 source(data_gen_file)
