@@ -6,7 +6,7 @@ home_dir <- NA
 scratch_dir <- NA
 result_dir <- paste0(scratch_dir,'/ResultsSample-',format(Sys.Date(),"%m-%y"))
 rds_dir <- NA
-data_gen_file <- paste0(home_dir,'/data_gen.R')
+data_gen_file <- paste0(home_dir,'/CML-Scripts/data_gen.R')
 
 ### Setup
 source(paste0(home_dir,'/CML-Scripts/helperfunctions.R'))
